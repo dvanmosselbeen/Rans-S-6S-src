@@ -13,11 +13,11 @@
    height="32"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.2 r9819"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="switch_label.svg"
-   inkscape:export-filename="Z:\GFX\blender\objects\aircrafts\Rans_S-6S\instruments\switch_avionics_label.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:export-filename="C:\Users\david\Documents\Git_Sources\Rans-S-6S-src\instruments\switch_master_label.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -28,13 +28,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="42.493929"
+     inkscape:cx="-15.363214"
      inkscape:cy="29.628571"
      inkscape:document-units="px"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="g3739"
      showgrid="false"
-     inkscape:window-width="1600"
-     inkscape:window-height="848"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -93,15 +93,15 @@
        style="display:none">
       <text
          xml:space="preserve"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
          x="10.28125"
          y="56.589844"
-         id="text3778-5"
-         sodipodi:linespacing="125%"><tspan
+         id="text3778-5"><tspan
            sodipodi:role="line"
            id="tspan3780-1"
            x="10.28125"
-           y="56.589844">COCKPIT</tspan></text>
+           y="56.589844"
+           style="font-size:24px;line-height:1.25">COCKPIT</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -111,15 +111,15 @@
        sodipodi:insensitive="true">
       <text
          xml:space="preserve"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
          x="22.755859"
          y="56.589844"
-         id="text3778-2"
-         sodipodi:linespacing="125%"><tspan
+         id="text3778-2"><tspan
            sodipodi:role="line"
            id="tspan3780-45"
            x="22.755859"
-           y="56.589844">NAV. L.</tspan></text>
+           y="56.589844"
+           style="font-size:24px;line-height:1.25">NAV. L.</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -129,32 +129,33 @@
        style="display:none">
       <text
          xml:space="preserve"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
          x="38.640625"
          y="56.589844"
-         id="text3778-8"
-         sodipodi:linespacing="125%"><tspan
+         id="text3778-8"><tspan
            sodipodi:role="line"
            id="tspan3780-8"
            x="38.640625"
-           y="56.589844">GPS</tspan></text>
+           y="56.589844"
+           style="font-size:24px;line-height:1.25">GPS</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
        id="layer6"
        inkscape:label="Navigation"
-       style="display:inline">
+       style="display:none"
+       sodipodi:insensitive="true">
       <text
          xml:space="preserve"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
          x="7.28125"
          y="56.589844"
-         id="text3778-4"
-         sodipodi:linespacing="125%"><tspan
+         id="text3778-4"><tspan
            sodipodi:role="line"
            id="tspan3780-0"
            x="7.28125"
-           y="56.589844">AVIONICS</tspan></text>
+           y="56.589844"
+           style="font-size:24px;line-height:1.25">AVIONICS</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -164,15 +165,15 @@
        style="display:none">
       <text
          xml:space="preserve"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
          x="25.574219"
          y="56.589844"
-         id="text3778-9"
-         sodipodi:linespacing="125%"><tspan
+         id="text3778-9"><tspan
            sodipodi:role="line"
            id="tspan3780-4"
            x="25.574219"
-           y="56.589844">RADIO</tspan></text>
+           y="56.589844"
+           style="font-size:24px;line-height:1.25">RADIO</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -182,15 +183,33 @@
        style="display:none">
       <text
          xml:space="preserve"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
          x="14.845703"
          y="56.589844"
-         id="text3778-1"
-         sodipodi:linespacing="125%"><tspan
+         id="text3778-1"><tspan
            sodipodi:role="line"
            id="tspan3780-7"
            x="14.845703"
-           y="56.589844">F. PUMP</tspan></text>
+           y="56.589844"
+           style="font-size:24px;line-height:1.25">F. PUMP</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       inkscape:label="Master"
+       id="g3739"
+       inkscape:groupmode="layer"
+       sodipodi:insensitive="true">
+      <text
+         id="text3737"
+         y="56.589844"
+         x="13.205078"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-size:24px;line-height:1.25"
+           y="56.589844"
+           x="13.205078"
+           id="tspan3735"
+           sodipodi:role="line">MASTER</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -200,15 +219,15 @@
        sodipodi:insensitive="true">
       <text
          xml:space="preserve"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          x="7.8203125"
          y="56.589844"
-         id="text3778"
-         sodipodi:linespacing="125%"><tspan
+         id="text3778"><tspan
            sodipodi:role="line"
            id="tspan3780"
            x="7.8203125"
-           y="56.589844">BATTERY</tspan></text>
+           y="56.589844"
+           style="font-size:24px;line-height:1.25">BATTERY</tspan></text>
     </g>
   </g>
 </svg>

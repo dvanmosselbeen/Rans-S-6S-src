@@ -148,11 +148,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="176.81787"
-     inkscape:cy="99.755499"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="413.77551"
+     inkscape:cy="311.18066"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer7"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
@@ -168,7 +168,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -181,10 +181,25 @@
     <image
        sodipodi:absref="C:\Users\david\Documents\Git_Sources\Rans-S-6S-src\panel_TB.png"
        xlink:href="panel_TB.png"
+       y="5.0862633e-07"
+       x="0"
+       id="image232"
+       preserveAspectRatio="none"
+       height="135.46666"
+       width="270.93332" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="TB 2"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="C:\Users\david\Documents\Git_Sources\Rans-S-6S-src\panel_TB2.png"
+       xlink:href="panel_TB2.png"
        width="270.93332"
        height="135.46666"
        preserveAspectRatio="none"
-       id="image232"
+       id="image884"
        x="0"
        y="5.0862633e-07" />
   </g>
@@ -422,7 +437,8 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="TB drawing 2"
-     style="display:inline;opacity:0.23200001">
+     style="display:inline;opacity:0.23200001"
+     sodipodi:insensitive="true">
     <rect
        style="opacity:1;fill:#000000;stroke:#000000;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter367)"
        id="rect349"
@@ -430,6 +446,82 @@
        height="50.251022"
        x="3.1586201"
        y="83.23127" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="TB drawing 3"
+     sodipodi:insensitive="true">
+    <rect
+       style="opacity:1;fill:#000000;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect888"
+       width="5"
+       height="5"
+       x="0"
+       y="5.1953125e-06" />
+    <rect
+       y="5.1953125e-06"
+       x="5.2916665"
+       height="5"
+       width="5"
+       id="rect890"
+       style="opacity:1;fill:#333333;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none" />
+    <rect
+       style="opacity:1;fill:#4d4d4d;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect892"
+       width="5"
+       height="5"
+       x="10.583333"
+       y="5.0862632e-06" />
+    <rect
+       y="5.0862632e-06"
+       x="15.875"
+       height="5"
+       width="5"
+       id="rect894"
+       style="opacity:1;fill:#808080;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none" />
+    <rect
+       style="opacity:1;fill:#b3b3b3;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect896"
+       width="5"
+       height="5"
+       x="21.166666"
+       y="5.0862632e-06" />
+    <rect
+       y="5.2916718"
+       x="0"
+       height="5"
+       width="5"
+       id="rect898"
+       style="opacity:1;fill:#cccccc;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none" />
+    <rect
+       style="opacity:1;fill:#ffffff;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect900"
+       width="5"
+       height="5"
+       x="5.2916665"
+       y="5.2916718" />
+    <rect
+       y="5.2916718"
+       x="10.583333"
+       height="5"
+       width="5"
+       id="rect902"
+       style="opacity:1;fill:#784421;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none" />
+    <rect
+       style="opacity:1;fill:#ac9d93;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect904"
+       width="5"
+       height="5"
+       x="15.875"
+       y="5.2916718" />
+    <rect
+       y="5.2916718"
+       x="21.166666"
+       height="5"
+       width="5"
+       id="rect906"
+       style="opacity:1;fill:#ffaaaa;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none" />
   </g>
   <g
      inkscape:label="AO"
@@ -441,11 +533,11 @@
     <image
        sodipodi:absref="C:\Users\david\Documents\Git_Sources\Rans-S-6S-src\panel_AO.png"
        xlink:href="panel_AO.png"
-       width="270.93332"
-       height="135.46666"
-       preserveAspectRatio="none"
-       id="image220"
+       y="161.53333"
        x="0"
-       y="161.53333" />
+       id="image220"
+       preserveAspectRatio="none"
+       height="135.46666"
+       width="270.93332" />
   </g>
 </svg>
